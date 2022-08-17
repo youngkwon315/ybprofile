@@ -17,7 +17,7 @@
             height: 58px;
             border-radius: 100%;
             border: 1px solid black;
-            background-image: url('https://youngkwon315.github.io/ybprofile/img/logo_2.png');
+            background-image: url('https://youngkwon315.github.io/ybprofile/main/img/logo_2.png');
             background-position: center;
             background-size: cover;
         }
@@ -113,7 +113,7 @@
             width: 123px;
             height: 80px;
             border-radius: 4px;
-            background-image: url('../test/img/bigimg1.avif');
+            background-image: url('https://youngkwon315.github.io/ybprofile/main/img/bigimg1.avif');
             background-position: center;
             background-size: cover;
         
@@ -123,7 +123,7 @@
           width: 123px;
           height: 80px;
           border-radius: 4px;
-          background-image: url('../test/img/logo.png');
+          background-image: url('https://youngkwon315.github.io/ybprofile/main/img/logo.png');
           background-position: center;
           background-size: cover;
       
